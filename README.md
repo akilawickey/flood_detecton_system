@@ -1,5 +1,12 @@
-# flood_detecton_system
-small system to recognize the flood.
+# Landslide_detecton_system
 
-This has a simple node js server and client.
+#LANDY
+
+System consists
+
+* IOT device 
+* nodejs server
+* client 
+
+Which can detect landslides earlier and inform people who can be affected.
 
